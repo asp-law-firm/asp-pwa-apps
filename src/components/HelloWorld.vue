@@ -42,6 +42,7 @@ import {
 } from 'vue2-editor'
 
 export default {
+	title: 'ASP LawFirm - Input Berita',
     name: "HelloWorld",
     components: {
         VueEditor,
